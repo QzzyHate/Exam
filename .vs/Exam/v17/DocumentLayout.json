@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikto\\source\\repos\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\addorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\addorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrder.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\AddOrder.cshtml.cs",
+              "RelativeDocumentMoniker": "Exam\\Pages\\AddOrder.cshtml.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\AddOrder.cshtml.cs",
+              "RelativeToolTip": "Exam\\Pages\\AddOrder.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:34:42.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\AddOrder.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Pages\\AddOrder.cshtml",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\AddOrder.cshtml",
+              "RelativeToolTip": "Exam\\Pages\\AddOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T17:34:13.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:12:58.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\appsettings.json",
+              "RelativeDocumentMoniker": "Exam\\appsettings.json",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\appsettings.json",
+              "RelativeToolTip": "Exam\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T17:18:05.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
