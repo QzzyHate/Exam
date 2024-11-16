@@ -154,3 +154,4 @@ C:\Users\vikto\source\repos\Exam\Exam\obj\Debug\net8.0\Exam.genruntimeconfig.cac
 C:\Users\vikto\source\repos\Exam\Exam\obj\Debug\net8.0\ref\Exam.dll
 C:\Users\vikto\source\repos\Exam\Exam\obj\Debug\net8.0\Exam.RazorAssemblyInfo.cache
 C:\Users\vikto\source\repos\Exam\Exam\obj\Debug\net8.0\Exam.RazorAssemblyInfo.cs
+C:\Users\vikto\source\repos\Exam\Exam\obj\Debug\net8.0\Exam.sourcelink.json

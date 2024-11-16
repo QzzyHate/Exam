@@ -1,0 +1,30 @@
+﻿@page
+@model Exam.Pages.EditOrderModel
+@{
+    ViewData["Title"] = "Изменить заявку";
+}
+<h1>Изменить заявку</h1>
+
+<form method="post">
+    <div>
+        <label>Номер заявки:</label>
+        <input type="number" name="number" required />
+    </div>
+    <div>
+        <label>Описание:</label>
+        <textarea name="description"></textarea>
+    </div>
+    <div>
+        <label>Мастер:</label>
+        <input type="text" name="master"/>
+    </div>
+    <div>
+        <label>Статус:</label>
+        <select name="status">
+            <option value="не выполнено">не выполнено</option>
+            <option value="в работе">в работе</option>
+            <option value="выполнено">выполнено</option>
+        </select>
+    </div>
+    <button type="submit">Созранить изменения</button>
+</form>

@@ -21,10 +21,7 @@ namespace Exam.Pages
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
-            {
-                Console.WriteLine(ModelState.IsValid);
                 return Page();
-            }
 
             _context.Orders.Add(Order);
             await _context.SaveChangesAsync();

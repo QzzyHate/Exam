@@ -12,13 +12,6 @@ app.MapGet("/", async (AppDbContext db) =>
     return Results.Ok(orders);
 });
 
-app.MapPost("/", async (Order order, AppDbContext db) =>
-{
-    db.Orders.Add(order); //Добавляем заявку в бд 
-    await db.SaveChangesAsync(); //Сохраняем изменения
-    return Results.Created("Created: ", order); //Показываем что добавили
-});
-
 app.MapRazorPages();
 app.Run();
 
@@ -28,18 +21,19 @@ public class Order
 
     public int number { get; set; } //Номер заявки
     public DateOnly dateAdded { get; set; } //Дата добавления
-    public string device { get; set; } //Неисправное оборудование
-    public string problemType { get; set; } //Тип проблемы
-    public string description { get; set; } //Описание
-    public string client { get; set; } //Клиент
-    public string status { get; set; } //Статус
+    public string? device { get; set; } //Неисправное оборудование
+    public string? problemType { get; set; } //Тип проблемы
+    public string? description { get; set; } //Описание
+    public string? client { get; set; } //Клиент
+    public string? master { get; set; } = "Не назначен"; //Мастер
+    public string? status { get; set; } //Статус
 }
 
 public class AppDbContext : DbContext
 {
     public DbSet<Order> Orders { get; set; } //Создаём таблицу с названием Orders
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) //Настраивает подключение??
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) //Настраивает подключение с бд
     {
         optionsBuilder.UseSqlite("Data Source=app.db");
     }
