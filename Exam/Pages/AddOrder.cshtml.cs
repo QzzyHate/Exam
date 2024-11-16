@@ -26,7 +26,7 @@ namespace Exam.Pages
             _context.Orders.Add(Order);
             await _context.SaveChangesAsync();
 
-            return Page();
+            return RedirectToPage("GetOrders");
         }
     }
 }

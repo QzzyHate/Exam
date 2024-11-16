@@ -1,0 +1,66 @@
+﻿@page
+@model Exam.Pages.GetOrdersModel
+@{
+    ViewData["Title"] = "Заявки";
+}
+<h1>Заявки</h1>
+
+@if (TempData["Message"] != null)
+{
+    <div>
+        @TempData["Message"]
+    </div>
+}
+
+<form method="post">
+    <div>
+        <input type="number" name="searchNumber" placeholder="Введите номер заяки" />
+        <button type="submit">Поиск</button>
+    </div>
+</form>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Номер</th>
+            <th>Дата добавления</th>
+            <th>Оборудование</th>
+            <th>Тип проблемы</th>
+            <th>Описание</th>
+            <th>Клиент</th>
+            <th>Мастер</th>
+            <th>Статус</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.searchedOrder != null)
+        {
+            <tr>
+                <th>@Model.searchedOrder.number</th>
+                <th>@Model.searchedOrder.dateAdded</th>
+                <th>@Model.searchedOrder.device</th>
+                <th>@Model.searchedOrder.problemType</th>
+                <th>@Model.searchedOrder.description</th>
+                <th>@Model.searchedOrder.client</th>
+                <th>@Model.searchedOrder.master</th>
+                <th>@Model.searchedOrder.status</th>
+            </tr>
+        }
+        else
+        {
+            @foreach (var order in Model.Orders)
+            {
+                <tr>
+                    <th>@order.number</th>
+                    <th>@order.dateAdded</th>
+                    <th>@order.device</th>
+                    <th>@order.problemType</th>
+                    <th>@order.description</th>
+                    <th>@order.client</th>
+                    <th>@order.master</th>
+                    <th>@order.status</th>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

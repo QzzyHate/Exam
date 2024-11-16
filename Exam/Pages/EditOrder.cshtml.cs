@@ -32,7 +32,8 @@ namespace Exam.Pages
             existingOrder.status = Order.status == null ? existingOrder.status : Order.status;
 
             await _context.SaveChangesAsync();
-            return Page();
+            TempData["Message"] = $"Статус заявки номер {existingOrder.number} был изменён.";
+            return RedirectToPage("GetOrders");
         }
     }
 }

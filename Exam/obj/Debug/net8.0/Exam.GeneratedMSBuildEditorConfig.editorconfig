@@ -33,3 +33,7 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/vikto/source/repos/Exam/Exam/Pages/EditOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE9yZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vikto/source/repos/Exam/Exam/Pages/GetOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

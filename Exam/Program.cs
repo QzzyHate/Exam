@@ -6,12 +6,6 @@ builder.Services.AddRazorPages(); //Добавляем Razor Pages
 
 var app = builder.Build();
 
-app.MapGet("/", async (AppDbContext db) =>
-{
-    var orders = await db.Orders.ToListAsync(); //Асинхронно получаем список объектов
-    return Results.Ok(orders);
-});
-
 app.MapRazorPages();
 app.Run();
 
