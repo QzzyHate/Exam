@@ -22,6 +22,7 @@ public class Order
     public string? master { get; set; } = "Не назначен"; //Мастер
     public string? status { get; set; } //Статус
     public string? masterComment { get; set; } //Коментарий мастера
+    public DateOnly? dateCompleted { get; set; }
 }
 
 public class AppDbContext : DbContext

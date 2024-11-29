@@ -31,6 +31,7 @@
             <th>Мастер</th>
             <th>Статус</th>
             <th>Комментарий мастера</th>
+            <th>Дата оканчания работы</th>
         </tr>
     </thead>
     <tbody>
@@ -46,6 +47,7 @@
                 <th>@Model.searchedOrder.master</th>
                 <th>@Model.searchedOrder.status</th>
                 <th>@Model.searchedOrder.masterComment</th>
+                <th>@Model.searchedOrder.dateCompleted</th>
             </tr>
         }
         else
@@ -62,6 +64,7 @@
                     <th>@order.master</th>
                     <th>@order.status</th>
                     <th>@order.masterComment</th>
+                    <th>@order.dateCompleted</th>
                 </tr>
             }
         }

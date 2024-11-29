@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Exam.Pages
@@ -37,7 +38,16 @@ namespace Exam.Pages
             //Уведомление
             TempData["Message"] = $"Статус заявки номер {existingOrder.number} был изменён.";
             if (existingOrder.status == "выполнено")
+            {
                 TempData["Message"] = $"Заявка с номером {existingOrder.number} завершена.";
+                existingOrder.dateCompleted = DateOnly.FromDateTime(DateTime.Now);
+                await _context.SaveChangesAsync();
+            }
+            else
+            {
+                existingOrder.dateCompleted = null;
+                await _context.SaveChangesAsync();
+            }
 
             return RedirectToPage("GetOrders");
         }
