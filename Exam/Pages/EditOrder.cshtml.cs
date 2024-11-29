@@ -30,9 +30,15 @@ namespace Exam.Pages
             existingOrder.description = Order.description == null ? existingOrder.description : Order.description;
             existingOrder.master = Order.master == null ? existingOrder.master : Order.master;
             existingOrder.status = Order.status == null ? existingOrder.status : Order.status;
+            existingOrder.masterComment =  Order.masterComment;
 
             await _context.SaveChangesAsync();
+
+            //Уведомление
             TempData["Message"] = $"Статус заявки номер {existingOrder.number} был изменён.";
+            if (existingOrder.status == "выполнено")
+                TempData["Message"] = $"Заявка с номером {existingOrder.number} завершена.";
+
             return RedirectToPage("GetOrders");
         }
     }

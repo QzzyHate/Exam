@@ -30,6 +30,7 @@
             <th>Клиент</th>
             <th>Мастер</th>
             <th>Статус</th>
+            <th>Комментарий мастера</th>
         </tr>
     </thead>
     <tbody>
@@ -44,6 +45,7 @@
                 <th>@Model.searchedOrder.client</th>
                 <th>@Model.searchedOrder.master</th>
                 <th>@Model.searchedOrder.status</th>
+                <th>@Model.searchedOrder.masterComment</th>
             </tr>
         }
         else
@@ -59,6 +61,7 @@
                     <th>@order.client</th>
                     <th>@order.master</th>
                     <th>@order.status</th>
+                    <th>@order.masterComment</th>
                 </tr>
             }
         }

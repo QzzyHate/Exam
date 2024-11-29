@@ -21,6 +21,7 @@ public class Order
     public string? client { get; set; } //Клиент
     public string? master { get; set; } = "Не назначен"; //Мастер
     public string? status { get; set; } //Статус
+    public string? masterComment { get; set; } //Коментарий мастера
 }
 
 public class AppDbContext : DbContext
