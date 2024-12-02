@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 
 namespace Exam.Pages
 {
-    public class StatisticModel : PageModel
+    public class StatisticModel : BaseController
     {
         private readonly AppDbContext _context;
 

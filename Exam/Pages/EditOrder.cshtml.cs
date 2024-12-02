@@ -7,7 +7,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace Exam.Pages
 {
     [IgnoreAntiforgeryToken]
-    public class EditOrderModel : PageModel
+    public class EditOrderModel : BaseController
     {
         private readonly AppDbContext _context;
 

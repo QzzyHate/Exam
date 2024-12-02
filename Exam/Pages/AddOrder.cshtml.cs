@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 namespace Exam.Pages
 {
     [IgnoreAntiforgeryToken]
-    public class AddOrderModel : PageModel
+    public class AddOrderModel : BaseController
     {
 
         private readonly AppDbContext _context;

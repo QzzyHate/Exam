@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vikto\\source\\repos\\Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\editorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\editorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\getorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\getorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\statistic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\statistic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\statistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\statistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\getorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\getorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\auth.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\auth.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,8 +19,40 @@
       "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\addorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\editorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\editorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\statistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\statistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\getorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\getorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\auth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\auth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\statistic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\statistic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\pages\\getorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\pages\\getorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|c:\\users\\vikto\\source\\repos\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874582BB-19D3-40C1-89B2-67C48B823803}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,131 +70,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\BaseController.cs",
+              "RelativeDocumentMoniker": "Exam\\Pages\\BaseController.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\BaseController.cs",
+              "RelativeToolTip": "Exam\\Pages\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:24:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auth.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\Auth.cshtml.cs",
+              "RelativeDocumentMoniker": "Exam\\Pages\\Auth.cshtml.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\Auth.cshtml.cs",
+              "RelativeToolTip": "Exam\\Pages\\Auth.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:39:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auth.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\Auth.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Pages\\Auth.cshtml",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\Auth.cshtml",
+              "RelativeToolTip": "Exam\\Pages\\Auth.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T13:38:16.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Statistic.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\Statistic.cshtml.cs",
               "RelativeDocumentMoniker": "Exam\\Pages\\Statistic.cshtml.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\Statistic.cshtml.cs",
               "RelativeToolTip": "Exam\\Pages\\Statistic.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T03:28:00.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Statistic.cshtml",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\Statistic.cshtml",
               "RelativeDocumentMoniker": "Exam\\Pages\\Statistic.cshtml",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\Statistic.cshtml",
               "RelativeToolTip": "Exam\\Pages\\Statistic.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-29T03:27:51.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetOrders.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\GetOrders.cshtml.cs",
-              "RelativeDocumentMoniker": "Exam\\Pages\\GetOrders.cshtml.cs",
-              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\GetOrders.cshtml.cs",
-              "RelativeToolTip": "Exam\\Pages\\GetOrders.cshtml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T12:16:14.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\GetOrders.cshtml",
-              "RelativeDocumentMoniker": "Exam\\Pages\\GetOrders.cshtml",
-              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\GetOrders.cshtml",
-              "RelativeToolTip": "Exam\\Pages\\GetOrders.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAEYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T12:16:08.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "EditOrder.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\EditOrder.cshtml.cs",
               "RelativeDocumentMoniker": "Exam\\Pages\\EditOrder.cshtml.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\EditOrder.cshtml.cs",
               "RelativeToolTip": "Exam\\Pages\\EditOrder.cshtml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA5wC4AAAANAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T08:20:41.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "EditOrder.cshtml",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\EditOrder.cshtml",
               "RelativeDocumentMoniker": "Exam\\Pages\\EditOrder.cshtml",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\EditOrder.cshtml",
               "RelativeToolTip": "Exam\\Pages\\EditOrder.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAHAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-16T08:20:33.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AddOrder.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\AddOrder.cshtml.cs",
               "RelativeDocumentMoniker": "Exam\\Pages\\AddOrder.cshtml.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\AddOrder.cshtml.cs",
               "RelativeToolTip": "Exam\\Pages\\AddOrder.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:34:42.378Z"
+              "WhenOpened": "2024-11-15T17:34:42.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "AddOrder.cshtml",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\AddOrder.cshtml",
               "RelativeDocumentMoniker": "Exam\\Pages\\AddOrder.cshtml",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\AddOrder.cshtml",
               "RelativeToolTip": "Exam\\Pages\\AddOrder.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-15T17:34:13.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "GetOrders.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\GetOrders.cshtml.cs",
+              "RelativeDocumentMoniker": "Exam\\Pages\\GetOrders.cshtml.cs",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\GetOrders.cshtml.cs",
+              "RelativeToolTip": "Exam\\Pages\\GetOrders.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:16:14.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\GetOrders.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Pages\\GetOrders.cshtml",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Pages\\GetOrders.cshtml",
+              "RelativeToolTip": "Exam\\Pages\\GetOrders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T12:16:08.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Program.cs",
               "RelativeDocumentMoniker": "Exam\\Program.cs",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\Program.cs",
               "RelativeToolTip": "Exam\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:12:58.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\appsettings.json",
               "RelativeDocumentMoniker": "Exam\\appsettings.json",
               "ToolTip": "C:\\Users\\vikto\\source\\repos\\Exam\\Exam\\appsettings.json",
               "RelativeToolTip": "Exam\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-15T17:18:05.652Z"
+              "WhenOpened": "2024-11-15T17:18:05.652Z",
+              "EditorCaption": ""
             }
           ]
         }

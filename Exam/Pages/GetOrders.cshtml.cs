@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Exam.Pages
 {
     [IgnoreAntiforgeryToken]
-    public class GetOrdersModel : PageModel
+    public class GetOrdersModel : BaseController
     {
         private readonly AppDbContext _context;
 
